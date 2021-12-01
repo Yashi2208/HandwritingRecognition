@@ -10,6 +10,9 @@ More read this
   2. Sequence Labeling (BLSTM-CTC)  --> Recurrent Neural Network (2 layers of LSTM) with CTC 
   3. Transcription --> Decoding the output of the RNN (CTC decode)
 
+## Other Files
+Follow the drive link[here](https://drive.google.com/drive/folders/1TRhRAM4WHQ7qRZpyyo5CV0wami9xDoHE?usp=sharing) to check the video, ppt, and the trained model(after downloading the model save it in the model dir).
+
 # Requirements
 1. Tensorflow v2
 2. Flask
